@@ -1,0 +1,7 @@
+licences:
+    streamx-cli:
+        name: "StreamX End-User License Agreement 1.0"
+        url: "https://www.streamx.dev/licenses/eula-v1-0.html"
+    default:
+        name: "StreamX End-User License Agreement 1.0"
+        url: "https://www.streamx.dev/licenses/eula-v1-0.html"
